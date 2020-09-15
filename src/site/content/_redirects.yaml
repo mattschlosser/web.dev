@@ -215,3 +215,8 @@ redirects:
 
 - from: /image-support-for-async-clipboard
   to: /async-clipboard
+
+  # Redirects for performance content
+
+- from: /native-lazy-loading
+  to: /image-lazy-loading
