@@ -219,4 +219,4 @@ redirects:
   # Redirects for performance content
 
 - from: /native-lazy-loading
-  to: /built-in-image-lazy-loading
+  to: /browser-level-image-lazy-loading
