@@ -215,3 +215,8 @@ redirects:
 
 - from: /image-support-for-async-clipboard
   to: /async-clipboard
+
+# Vanity URLs
+
+- from: /goibibo
+  to: /goibibo-case-study
